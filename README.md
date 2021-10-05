@@ -6,4 +6,3 @@ My background is really far from tech, I remember that I used to be the kind of 
 
 - 🌎 I'm the Founder of [Axie Universe](https://axie-universe.com), an Axie Infinity all in one tool for management.
 - 🌱 I’m currently learning Solidity.
-- 👯 I’m looking to collaborate on a Open Source project. 
